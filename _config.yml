@@ -1,9 +1,9 @@
 auto: true
 markdown: rdiscount
 permalink: /:title
-production_url: http://www.qiufupo.com
+production_url: https://qiufupo.kooker.jp
 pygments: true
-paginate: 10
+paginate: 5
 
 title: 求富婆
 tagline: 富婆，富婆，我爱你！求你快快来包养……
